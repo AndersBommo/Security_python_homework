@@ -27,7 +27,7 @@ python3 sbom.py /path/to/your/directory
 
 
 ### Future improvements
-####Dependency Vulnerability Checks:
+#### Dependency Vulnerability Checks:
 Integrate a vulnerability scanning tool (such as using CVE databases) to check if any listed dependencies have known vulnerabilities.
 
 #### Improved formatting
