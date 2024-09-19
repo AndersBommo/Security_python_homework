@@ -17,6 +17,7 @@ git clone https://github.com/AndersBommo/Security_python_homework.git
 ### HOW TO: 
 
 Run script in python3 or later with command below with path to your directory as shown below:
+
 python3 sbom.py /path/to/your/directory
 
 ### Exit Codes:
